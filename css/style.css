@@ -1,3 +1,10 @@
-h1 {
-    color: rgb(212, 14, 14);
+.box{
+background-color:red ;
+padding: 10px;
+text-align: center;
+}
+
+
+.big-red {
+    background-color: red;
 }
